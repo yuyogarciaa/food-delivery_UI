@@ -1,5 +1,4 @@
 ##food-delivery
-<center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dart-logo-wordmark.svg/1280px-Dart-logo-wordmark.svg.png" width="50"><img src="https://ih1.redbubble.net/image.1057190214.1918/flat,750x1000,075,f.u1.jpg" width="50"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1200px-Android_logo_2019_%28stacked%29.svg.png" width="50">
 
 **Table of Contents**
